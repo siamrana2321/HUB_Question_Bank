@@ -4,8 +4,6 @@ Welcome to the **HUB Question Bank**.
 
 The question bank is now hosted on GitHub to provide a centralized, organized, and easily accessible collection of previous examination question papers for all students of Hamdard University Bangladesh.
 
-**Repository:** [HUB Question Bank Repository](https://github.com/siamrana2321/HUB_Question_Bank?utm_source=chatgpt.com)
-
 ---
 
 # Repository Structure
