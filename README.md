@@ -1,8 +1,8 @@
 # HUB Question Bank – User Manual
 
-Welcome to the **HUB Question Bank**.
+Welcome to the **HUB Question Bank Department of CSE**.
 
-The question bank is now hosted on GitHub to provide a centralized, organized, and easily accessible collection of previous examination question papers for all students of Hamdard University Bangladesh.
+The question bank is now hosted on GitHub to provide a centralized, organized, and easily accessible collection of previous examination question papers for all students of Computer Science and Engineering, Hamdard University Bangladesh.
 
 ---
 
