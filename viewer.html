@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+
+  <meta name="theme-color"
+        content="#0d1117">
+
+  <title>Question Paper Viewer</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+  <!-- PDF.js -->
+   <link rel="stylesheet" href="viewer.css">
+   <script type="module" src="viewer.js" defer></script>
+  
+
+ 
+
+</head>
+
+
+<body>
+
+
+<header class="viewer-header">
+
+  <div id="viewer-title"
+       class="viewer-title">
+    Question Paper
+  </div>
+
+ <button
+  class="back-btn"
+  onclick="goHome()">
+
+  <i class="fa-solid fa-door-open"></i>👈Back
+
+</button>
+
+</header>
+
+
+<div id="pdf-container">
+
+  <div id="loading"
+       class="loading">
+
+    <div class="spinner"></div>
+
+    Loading question paper...
+
+  </div>
+
+</div>
+
+
+</body>
+
+</html>
